@@ -1,9 +1,6 @@
 fastapi
 uvicorn
-psycopg2-binary
-pandas
-scikit-learn
-joblib
-python-dotenv
 confluent-kafka
-tensorflow
+faker
+numpy
+python-dotenv
